@@ -6,5 +6,6 @@
     <a class="btn btn-lg btn-dark" href="register.php">Get Started</a>
   </div>
 </div>
+<a class="btn btn-lg btn-dark" href="imc/index.php">Ir a IMC</a>
 
 <?php require "partials/footer.php" ?>
