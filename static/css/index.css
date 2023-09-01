@@ -4,5 +4,13 @@
 .welcome {
     background: url('img/background.jpg');
     background-position: center center;
+    width: 100%;
+    height: 100%;
     background-size: cover;
 }
+/* .welcome {
+    background: url('img/background.jpg');
+    background-position: center center;
+    background-size: auto 100% !important;
+    /* Establece el alto al 100%, ancho automático y utiliza !important */
+/* } */ 
